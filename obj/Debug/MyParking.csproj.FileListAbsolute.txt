@@ -1,0 +1,7 @@
+C:\Users\Яна\source\repos\MyParking\MyParking\bin\Debug\MyParking.exe.config
+C:\Users\Яна\source\repos\MyParking\MyParking\bin\Debug\MyParking.exe
+C:\Users\Яна\source\repos\MyParking\MyParking\bin\Debug\MyParking.pdb
+C:\Users\Яна\source\repos\MyParking\MyParking\obj\Debug\MyParking.csprojAssemblyReference.cache
+C:\Users\Яна\source\repos\MyParking\MyParking\obj\Debug\MyParking.csproj.CoreCompileInputs.cache
+C:\Users\Яна\source\repos\MyParking\MyParking\obj\Debug\MyParking.exe
+C:\Users\Яна\source\repos\MyParking\MyParking\obj\Debug\MyParking.pdb
